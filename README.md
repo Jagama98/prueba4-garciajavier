@@ -13,3 +13,4 @@ Para ejecutar en Netbeans, crear un proyecto nuevo y copiar dentro la carpeta `s
 ![Diagrama de clases](img/colegioUML.png)
 
 > Diagrama realizado con el plugin EasyUML de Netbeans
+JAVIER GARCIA MARTIN
